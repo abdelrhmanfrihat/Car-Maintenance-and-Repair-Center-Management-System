@@ -1,0 +1,6 @@
+Customer NID       : 2
+Car Plate Number   : 2
+Repair Notes       : I do not know
+Diagnostic Report  : potato
+Appointment Time   : 10:00 - 11:00
+--------------------------------------------------

@@ -1,0 +1,6 @@
+Customer NID       : 3
+Car Plate Number   : 3
+Repair Notes       : I do not know either
+Diagnostic Report  : Potata
+Appointment Time   : 12:00 - 13:00
+--------------------------------------------------
